@@ -1,1 +1,1 @@
-*{box-sizing:border-box}.countdown{margin:auto;display:flex;flex-flow:column;align-items:center}.title{font-size:72px}.content{font-size:60px;padding-top:10%}#date{font-size:64px}
+.countdown{display:flex;flex-flow:column;align-items:center}.title{font-size:72px}.content{font-size:60px;padding-top:10%}#date{font-size:64px}
